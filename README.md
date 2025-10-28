@@ -61,23 +61,27 @@
 
    参考 `云端安装imagebind.txt`。
 
-3. **提取多模态特征**
+---
 
-   ```bash
-   python extract_embeddings.py
-   ```
+## 遇到的问题
 
-4. **训练 DG-NODE 模型**
+1. **Mac 系统遗留文件问题**
 
-   ```bash
-   python train_dgnode.py
-   ```
+   * 在数据集中发现来自 macOS 的隐藏文件（如 `.DS_Store` 等），可能会导致数据读取异常。
+   * **解决办法**：加载脚本中加入自动忽略逻辑以及清理
 
-5. **评估与可视化**
+2. **ImageBind 不支持 `.avi` 视频格式**
 
-   ```bash
-   python evaluate.py
-   ```
+   * ImageBind 目前无法直接读取 `.avi` 格式的视频文件。
+   * **解决办法**：先在本地进行视频格式转换，新增了一个脚本 `avi_to_mp4.py` 用于将 `.avi` 文件转成可被 ImageBind 读取的格式（如 `.mp4`）。
+
+3. **显存不足问题**
+
+   * 使用 24GB 显存的 GPU 无法完整运行 ImageBind - huge 特征提取功能，出现炸显存问题。
+   * **可能原因**：模型规模较大，或者代码存在显存释放不及时的情况。
+   * **解决办法**：计划更换更大显存的 GPU 进行尝试；同时将检查并优化现有代码以减少显存占用。
+
+---
 
 
 ## 文件说明
@@ -95,4 +99,5 @@
 ## 联系方式
 
 Email: jiangxiaobai1142&#64;gmail.com
+
 
