@@ -1,0 +1,44 @@
+# 查看 Python 版本
+python --version
+
+# 查看 PyTorch 是否已安装
+python -m torch.utils.collect_env
+
+# 或者只快速检测 GPU
+python - <<'EOF'
+import torch
+print("PyTorch version:", torch.__version__)
+print("CUDA available:", torch.cuda.is_available())
+if torch.cuda.is_available():
+    print("GPU name:", torch.cuda.get_device_name(0))
+EOF
+
+
+# Step 1. 安装基础依赖
+pip install numpy pandas tqdm soundfile librosa scikit-learn matplotlib
+
+# Step 2. 安装 ImageBind
+git clone -b feature/add_hf https://github.com/nielsrogge/ImageBind.git
+cd ImageBind
+pip install .
+
+# Step 3. 验证安装成功
+python - <<'EOF'
+from imagebind.models import imagebind_model
+print(" ImageBind imported successfully")
+EOF
+
+| 库            | 推荐版本                   |
+| ------------ | ---------------------- |
+| torch        | 1.13.1                 |
+| torchvision  | 0.14.1                 |
+| torchaudio   | 0.13.1                 |
+| pytorchvideo | 0.1.5（commit 28fe037d） |
+
+
+
+数据上传：
+解压：
+!tar -xzvf /workspace/IEMOCAP.tar.gz -C /workspace/、
+
+路径：/workspace/IEMOCAP/
