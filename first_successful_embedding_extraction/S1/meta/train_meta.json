@@ -1,0 +1,722 @@
+[
+  {
+    "utt_id": "Ses01F_impro03_M000",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M000.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M000.wav",
+    "text": "So what's up?  What's new?"
+  },
+  {
+    "utt_id": "Ses01F_impro03_F000",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F000.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F000.wav",
+    "text": "Well Vegas was awesome."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M001",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M001.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M001.wav",
+    "text": "Yeah.  I heard."
+  },
+  {
+    "utt_id": "Ses01F_impro03_F001",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F001.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F001.wav",
+    "text": "And, um, I got married."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M002",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M002.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M002.wav",
+    "text": "Shut up.  No- in Vegas?"
+  },
+  {
+    "utt_id": "Ses01F_impro03_F002",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F002.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F002.wav",
+    "text": "Yeah.  In the old town part."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M003",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M003.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M003.wav",
+    "text": "Who did you marry?"
+  },
+  {
+    "utt_id": "Ses01F_impro03_F003",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F003.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F003.wav",
+    "text": "Chuck. [LAUGHTER]"
+  },
+  {
+    "utt_id": "Ses01F_impro03_M004",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M004.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M004.wav",
+    "text": "Did you propose to you?"
+  },
+  {
+    "utt_id": "Ses01F_impro03_F004",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F004.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F004.wav",
+    "text": "Um- Yes.  It was very romantic."
+  },
+  {
+    "utt_id": "Ses01F_impro03_F005",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F005.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F005.wav",
+    "text": "It was at the slot machines."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M005",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M005.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M005.wav",
+    "text": "Oh.  The Wheel of Fortune slots?"
+  },
+  {
+    "utt_id": "Ses01F_impro03_F006",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F006.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F006.wav",
+    "text": "Uhuh, uhuh.  He won big and he-and he realized that the only thing that would make it better was me as his bride."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M006",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M006.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M006.wav",
+    "text": "He turned to you and was like..."
+  },
+  {
+    "utt_id": "Ses01F_impro03_F007",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F007.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F007.wav",
+    "text": "Hey.  Let's get married and I said okay."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M007",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M007.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M007.wav",
+    "text": "[LAUGHTER] That's really romantic."
+  },
+  {
+    "utt_id": "Ses01F_impro03_F008",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F008.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F008.wav",
+    "text": "Yeah.  Well.  You know, because he's leaving the next day."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M008",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M008.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M008.wav",
+    "text": "Yeah."
+  },
+  {
+    "utt_id": "Ses01F_impro03_F009",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F009.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F009.wav",
+    "text": "But we're going to have a honeymoon cruise."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M009",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M009.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M009.wav",
+    "text": "Does that mean that you're going to get citizenship, too, in- in England or whatever?"
+  },
+  {
+    "utt_id": "Ses01F_impro03_F010",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F010.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F010.wav",
+    "text": "Oh.  I hadn't even thought about that."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M010",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M010.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M010.wav",
+    "text": "Yeah.  Think about that."
+  },
+  {
+    "utt_id": "Ses01F_impro03_F011",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F011.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F011.wav",
+    "text": "He's not going to be a citizen, though."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M011",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M011.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M011.wav",
+    "text": "Yeah.  But he'll have like a long visa.  Can you go visit then for a long time?"
+  },
+  {
+    "utt_id": "Ses01F_impro03_F012",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F012.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F012.wav",
+    "text": "Oh.  Totally."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M012",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M012.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M012.wav",
+    "text": "Oh, how are you going to do the long distance thing?  So wait, are you going to move there?"
+  },
+  {
+    "utt_id": "Ses01F_impro03_F013",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F013.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F013.wav",
+    "text": "I guess I'll-  I guess I'll have an internet husband.[LAUGHTER]"
+  },
+  {
+    "utt_id": "Ses01F_impro03_M013",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M013.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M013.wav",
+    "text": "Like you need another one of those.[LAUGHTER]"
+  },
+  {
+    "utt_id": "Ses01F_impro03_F014",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F014.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F014.wav",
+    "text": "I have an internet boyfriend.  I guess I'll have to juggle the two.  Is that cheating?  I don't know. Hmm."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M014",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M014.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M014.wav",
+    "text": "Is that your phone?"
+  },
+  {
+    "utt_id": "Ses01F_impro03_F015",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F015.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F015.wav",
+    "text": "Yeah, so [LAUGHTER] He's calling me now"
+  },
+  {
+    "utt_id": "Ses01F_impro03_M015",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M015.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M015.wav",
+    "text": "He loves you."
+  },
+  {
+    "utt_id": "Ses01F_impro03_F016",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F016.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F016.wav",
+    "text": "He likes to keep tabs, you know."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M016",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M016.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M016.wav",
+    "text": "How much did he win at the slot?"
+  },
+  {
+    "utt_id": "Ses01F_impro03_F017",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F017.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F017.wav",
+    "text": "Uh, I think seven hundred and fifty dollars."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M017",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M017.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M017.wav",
+    "text": "Really? Penny slots?"
+  },
+  {
+    "utt_id": "Ses01F_impro03_F018",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F018.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F018.wav",
+    "text": "Penny slots. That's what he plays."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M018",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M018.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M018.wav",
+    "text": "Wow."
+  },
+  {
+    "utt_id": "Ses01F_impro03_F019",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F019.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F019.wav",
+    "text": "Yeah."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M019",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M019.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M019.wav",
+    "text": "I'm a big fan of the Wheel of Fortune quarters. But it just costs so much.  I don't know."
+  },
+  {
+    "utt_id": "Ses01F_impro03_F020",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F020.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F020.wav",
+    "text": "Oh."
+  },
+  {
+    "utt_id": "Ses01F_impro03_F021",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F021.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F021.wav",
+    "text": "Yeah.  We played Wheel of Fortune pennies.  It's like a giant thing with like-"
+  },
+  {
+    "utt_id": "Ses01F_impro03_M020",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M020.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M020.wav",
+    "text": "But the pennies always get you because you end up spending like, you know, fifty bucks."
+  },
+  {
+    "utt_id": "Ses01F_impro03_F022",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F022.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F022.wav",
+    "text": "Fifty bucks. Mmhmm."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M021",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M021.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M021.wav",
+    "text": "like, wait, but it's just pennies.  You're like, wait a minute I'm on to you."
+  },
+  {
+    "utt_id": "Ses01F_impro03_F023",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F023.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F023.wav",
+    "text": "Yeah."
+  },
+  {
+    "utt_id": "Ses01F_impro03_F024",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F024.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F024.wav",
+    "text": "Well so now we're married. We have cat children."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M022",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M022.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M022.wav",
+    "text": "Awesome."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M023",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M023.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M023.wav",
+    "text": "[LAUGHTER] Cat babies."
+  },
+  {
+    "utt_id": "Ses01F_impro03_F025",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F025.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F025.wav",
+    "text": "We renamed Brenda, Lumber Janet."
+  },
+  {
+    "utt_id": "Ses01F_impro03_M024",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M024.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_M024.wav",
+    "text": "That's fair enough."
+  },
+  {
+    "utt_id": "Ses01F_impro03_F026",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F026.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro03/Ses01F_impro03_F026.wav",
+    "text": "She needs a new name each state that we go into. [LAUGHTER]"
+  },
+  {
+    "utt_id": "Ses01F_impro01_F000",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F000.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F000.wav",
+    "text": "Excuse me."
+  },
+  {
+    "utt_id": "Ses01F_impro01_M000",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M000.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M000.wav",
+    "text": "Do you have your forms?"
+  },
+  {
+    "utt_id": "Ses01F_impro01_F001",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F001.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F001.wav",
+    "text": "Yeah."
+  },
+  {
+    "utt_id": "Ses01F_impro01_M001",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M001.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M001.wav",
+    "text": "Let me see them."
+  },
+  {
+    "utt_id": "Ses01F_impro01_F002",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F002.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F002.wav",
+    "text": "Is there a problem?"
+  },
+  {
+    "utt_id": "Ses01F_impro01_M002",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M002.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M002.wav",
+    "text": "Who told you to get in this line?"
+  },
+  {
+    "utt_id": "Ses01F_impro01_F003",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F003.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F003.wav",
+    "text": "You did."
+  },
+  {
+    "utt_id": "Ses01F_impro01_F004",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F004.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F004.wav",
+    "text": "You were standing at the beginning and you directed me."
+  },
+  {
+    "utt_id": "Ses01F_impro01_M003",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M003.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M003.wav",
+    "text": "Okay. But I didn't tell you to get in this line if you are filling out this particular form."
+  },
+  {
+    "utt_id": "Ses01F_impro01_F005",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F005.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F005.wav",
+    "text": "Well what's the problem?  Let me change it."
+  },
+  {
+    "utt_id": "Ses01F_impro01_M004",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M004.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M004.wav",
+    "text": "This form is a Z.X.four."
+  },
+  {
+    "utt_id": "Ses01F_impro01_M005",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M005.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M005.wav",
+    "text": "You can't--  This is not the line for Z.X.four.  If you're going to fill out the Z.X.four, you need to have a different form of ID."
+  },
+  {
+    "utt_id": "Ses01F_impro01_F006",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F006.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F006.wav",
+    "text": "What?  I'm getting an ID.  This is why I'm here.  My wallet was stolen."
+  },
+  {
+    "utt_id": "Ses01F_impro01_M006",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M006.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M006.wav",
+    "text": "No. I need another set of ID to prove this is actually you."
+  },
+  {
+    "utt_id": "Ses01F_impro01_F007",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F007.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F007.wav",
+    "text": "How am I supposed to get an ID without an ID?  How does a person get an ID in the first place?"
+  },
+  {
+    "utt_id": "Ses01F_impro01_M007",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M007.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M007.wav",
+    "text": "I don't know.  But I need an ID to pass this form along.  I can't just send it along without an ID."
+  },
+  {
+    "utt_id": "Ses01F_impro01_F008",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F008.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F008.wav",
+    "text": "I'm here to get an ID."
+  },
+  {
+    "utt_id": "Ses01F_impro01_M008",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M008.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M008.wav",
+    "text": "No.  I need another ID, a separate one."
+  },
+  {
+    "utt_id": "Ses01F_impro01_F009",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F009.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F009.wav",
+    "text": "Like what?  Like a birth certificate?"
+  },
+  {
+    "utt_id": "Ses01F_impro01_M009",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M009.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M009.wav",
+    "text": "A birth certificate, a passport...a student ID; didn't you go to school?  Anything?"
+  },
+  {
+    "utt_id": "Ses01F_impro01_F010",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F010.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F010.wav",
+    "text": "Who the hell has a birth certificate?"
+  },
+  {
+    "utt_id": "Ses01F_impro01_F011",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F011.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F011.wav",
+    "text": "Yes but my wallet was stolen, I don't have anything.  I don't have any credit cards, I don't have my ID.  Don't you have things on file here?"
+  },
+  {
+    "utt_id": "Ses01F_impro01_M010",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M010.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M010.wav",
+    "text": "Yeah.  We keep it on file, but we need an ID to access that file."
+  },
+  {
+    "utt_id": "Ses01F_impro01_F012",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F012.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F012.wav",
+    "text": "That's out of control."
+  },
+  {
+    "utt_id": "Ses01F_impro01_M011",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M011.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M011.wav",
+    "text": "I don't understand why this is so complicated for people when they get here.  It's just a simple form.  I just need an ID."
+  },
+  {
+    "utt_id": "Ses01F_impro01_F013",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F013.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F013.wav",
+    "text": "How long have you been working here?"
+  },
+  {
+    "utt_id": "Ses01F_impro01_M012",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M012.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M012.wav",
+    "text": "Actually too long."
+  },
+  {
+    "utt_id": "Ses01F_impro01_F014",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F014.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F014.wav",
+    "text": "Clearly.  You know, do you have like a supervisor or something?"
+  },
+  {
+    "utt_id": "Ses01F_impro01_M013",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M013.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_M013.wav",
+    "text": "Yeah.  Do you want to see my supervisor?  Huh? Yeah.  Do you want to see my supervisor?  Fine.  I'll be right back."
+  },
+  {
+    "utt_id": "Ses01F_impro01_F015",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F015.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro01/Ses01F_impro01_F015.wav",
+    "text": "That would - I would appreciate that.  Yeah."
+  },
+  {
+    "utt_id": "Ses01F_impro02_F000",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F000.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F000.wav",
+    "text": "Did you get the mail? So you saw my letter?"
+  },
+  {
+    "utt_id": "Ses01F_impro02_M000",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M000.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M000.wav",
+    "text": "It's not fair."
+  },
+  {
+    "utt_id": "Ses01F_impro02_F001",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F001.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F001.wav",
+    "text": "Yeah.  I know."
+  },
+  {
+    "utt_id": "Ses01F_impro02_M001",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M001.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M001.wav",
+    "text": "I don't understand.  You've already done so much, I don't know why do you have to go back."
+  },
+  {
+    "utt_id": "Ses01F_impro02_F002",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F002.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F002.wav",
+    "text": "I don't know.  I put in that. request too. They didn't..."
+  },
+  {
+    "utt_id": "Ses01F_impro02_F003",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F003.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F003.wav",
+    "text": "I guess, you know, everybody has to make sacrifices."
+  },
+  {
+    "utt_id": "Ses01F_impro02_M002",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M002.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M002.wav",
+    "text": "I don't know, it's just not fair.  I think you've already made your sacrifice."
+  },
+  {
+    "utt_id": "Ses01F_impro02_F004",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F004.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F004.wav",
+    "text": "There's people that have given more though, you know?"
+  },
+  {
+    "utt_id": "Ses01F_impro02_M003",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M003.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M003.wav",
+    "text": "I just don't see how they can make you leave when you have a new baby - we have a new kid."
+  },
+  {
+    "utt_id": "Ses01F_impro02_F005",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F005.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F005.wav",
+    "text": "I know."
+  },
+  {
+    "utt_id": "Ses01F_impro02_M004",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M004.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M004.wav",
+    "text": "Then why is that fair?  Why--"
+  },
+  {
+    "utt_id": "Ses01F_impro02_F006",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F006.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F006.wav",
+    "text": "There's babies over there, though, that need mothers."
+  },
+  {
+    "utt_id": "Ses01F_impro02_M005",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M005.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M005.wav",
+    "text": "I don't know how you can be okay with this?  I don't know why you're not-- you're fine with it."
+  },
+  {
+    "utt_id": "Ses01F_impro02_F007",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F007.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F007.wav",
+    "text": "I'm not okay with it, but I don't-- it's not like I have a choice.  I don't see what crying about it is going to fix."
+  },
+  {
+    "utt_id": "Ses01F_impro02_M006",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M006.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M006.wav",
+    "text": "I'm just trying to think of another way.  I'm just trying to..."
+  },
+  {
+    "utt_id": "Ses01F_impro02_F008",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F008.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F008.wav",
+    "text": "Just, you know, kicking myself."
+  },
+  {
+    "utt_id": "Ses01F_impro02_F009",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F009.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F009.wav",
+    "text": "like you sign up because you need money and"
+  },
+  {
+    "utt_id": "Ses01F_impro02_F010",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F010.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F010.wav",
+    "text": "things just aren't what they seem."
+  },
+  {
+    "utt_id": "Ses01F_impro02_M007",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M007.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M007.wav",
+    "text": "This is a stupid war."
+  },
+  {
+    "utt_id": "Ses01F_impro02_F011",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F011.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F011.wav",
+    "text": "We're doing the right thing, though."
+  },
+  {
+    "utt_id": "Ses01F_impro02_M008",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M008.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M008.wav",
+    "text": "I know."
+  },
+  {
+    "utt_id": "Ses01F_impro02_M009",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M009.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M009.wav",
+    "text": "I just don't see why it has to be you."
+  },
+  {
+    "utt_id": "Ses01F_impro02_F012",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F012.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F012.wav",
+    "text": "If not me then, who?"
+  },
+  {
+    "utt_id": "Ses01F_impro02_M010",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M010.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M010.wav",
+    "text": "What am I going to do? Huh?"
+  },
+  {
+    "utt_id": "Ses01F_impro02_F013",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F013.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F013.wav",
+    "text": "You'll videotape everything, yeah?"
+  },
+  {
+    "utt_id": "Ses01F_impro02_M011",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M011.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M011.wav",
+    "text": "Yeah."
+  },
+  {
+    "utt_id": "Ses01F_impro02_F014",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F014.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F014.wav",
+    "text": "Maybe you can send it to me, like stream it, yeah?"
+  },
+  {
+    "utt_id": "Ses01F_impro02_M012",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M012.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M012.wav",
+    "text": "Don't you guys have access to computers over there."
+  },
+  {
+    "utt_id": "Ses01F_impro02_F015",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F015.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F015.wav",
+    "text": "Last month--  Yeah."
+  },
+  {
+    "utt_id": "Ses01F_impro02_M013",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M013.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M013.wav",
+    "text": "I just don't know how I'm going to do it without you."
+  },
+  {
+    "utt_id": "Ses01F_impro02_F016",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F016.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F016.wav",
+    "text": "I have to find sitters."
+  },
+  {
+    "utt_id": "Ses01F_impro02_M014",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M014.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M014.wav",
+    "text": "I can't raise a baby by myself.  How?"
+  },
+  {
+    "utt_id": "Ses01F_impro02_F017",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F017.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F017.wav",
+    "text": "We've got friends, that's why we moved here, huh?  Because there is a day care down the street."
+  },
+  {
+    "utt_id": "Ses01F_impro02_M015",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M015.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M015.wav",
+    "text": "I know."
+  },
+  {
+    "utt_id": "Ses01F_impro02_F018",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F018.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F018.wav",
+    "text": "And your mother is close by."
+  },
+  {
+    "utt_id": "Ses01F_impro02_F019",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F019.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F019.wav",
+    "text": "I'll send you lots of letters."
+  },
+  {
+    "utt_id": "Ses01F_impro02_F020",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F020.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_F020.wav",
+    "text": "And I want lots and lots and lots of pictures."
+  },
+  {
+    "utt_id": "Ses01F_impro02_M016",
+    "video_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M016.mp4",
+    "audio_path": "/workspace/dataset/S1/Ses01F_impro02/Ses01F_impro02_M016.wav",
+    "text": "It's just not fair."
+  }
+]
