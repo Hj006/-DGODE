@@ -81,8 +81,30 @@
    * **可能原因**：模型规模较大，或者代码存在显存释放不及时的情况。
    * **解决办法**：计划更换更大显存的 GPU 进行尝试；同时将检查并优化现有代码以减少显存占用。
 
----
+   * **2025/10/29**：发现是视频需要切分，否则显存。
 
+
+
+4. 数据切分上面遇到问题
+
+暂时定下来希望使用如下的切分：
+
+IEMOCAP/
+└── Session1/
+    ├── Session1/dialog/avi/DivX/Ses01F_impro01.mp4        ← 整段视频
+    ├── Session1/sentences/wav/Ses01F_impro01/             ← 已切好的音频片段
+    │      ├── Ses01F_impro01_F000.wav
+    │      ├── Ses01F_impro01_F001.wav
+    │      ├── ...
+    │
+    └── Session1/sentences/ForcedAlignment/Ses01F_impro01/ ← 对齐信息（精确到词）
+           ├── Ses01F_impro01_F000.wdseg
+           ├── Ses01F_impro01_F001.wdseg
+           ├── ...
+
+
+---
+---
 
 ## 文件说明
 
